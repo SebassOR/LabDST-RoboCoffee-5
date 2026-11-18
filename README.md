@@ -1,4 +1,4 @@
-# oak9
+# RoboCoffee-Intel Edison, ESP32, Raspberry pi pico
 
 Librería Python para hablar directo con el robot OAK9 por TCP (sin pasar
 por `server/`). Pensada para experimentar con control, sensores y
